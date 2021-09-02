@@ -1,0 +1,23 @@
+**Table of contents:**
+
+**1.Introduction**
+2.Import Required Libraries
+3.Reading and understanding the dataset
+    3.a. Importing datasets
+    3.b. Inspecting Dataframes
+4.Data Cleaning and Imputation
+    4.a. Null value Calculation
+    4.b. Analyzing and Dropping Irrelevant Variables in application data
+    4.c. Null Value Data Imputation on application data
+    4.d. Analyze and Dropping Irrelevant Variables in previous_data
+    4.e. Null Value Data Imputation on previous_data
+    4.f. Standardize Values
+    4.g. Data Type Conversion
+    4.h. Outlier Detection
+5.Data Analysis
+    5.a. Imbalance Analysis
+    5.b. Categorical Variables Analysis
+    5.c. Correlation
+    5.d. Numerical Variables Analysis
+6.Merged Dataframes Analysis
+7.Conclusions
